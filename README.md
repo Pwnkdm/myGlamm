@@ -1,4 +1,7 @@
 # myGlamm
+
+![myglamm](https://user-images.githubusercontent.com/99590191/171816091-29783e4f-30cf-43df-bd0d-4f7869bbb25c.png)
+
 MyGlamm is a direct-to-consumer beauty brand that offers an online beauty products marketplace with international spa and salon products.
 The company uses a combination of technology, content, and social media to allow consumers to not only discover its products but also create rich, 
 personalized, content and tutorial.  
